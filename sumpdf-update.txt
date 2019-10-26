@@ -1,3 +1,4 @@
 [SumatraPDF]
 Latest 3.2.0.0
+[UpdateInfo]
 UpdateLink https://www.sumatrapdfreader.org/download-free-pdf-viewer.html
