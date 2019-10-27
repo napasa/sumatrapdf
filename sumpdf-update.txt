@@ -1,4 +1,4 @@
 SumatraPDF [
-	Latest = 3.2.0.0
+	Latest = 3.3.0.0
 	UpdateLink = https://www.sumatrapdfreader.org/download-free-pdf-viewer.html
 ]
